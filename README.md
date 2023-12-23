@@ -1,6 +1,6 @@
 # Cloud-based-smart-monitoring-system
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/PrwEOURVKtA)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/PrwEOURVKtA?autoplay=1&mute=1)
 
 ## Introduction:
 The purpose of this project is to design, implement, and deploy a smart room system that focuses on monitoring temperature, humidity, light, and occupancy, and providing better management of the room environment. The project involves the integration of hardware, software, and cloud-based solutions to achieve a comprehensive smart room system. The project monitors the humidity, temperature, changes light and counts people inside the room. The LED turns on if the room is full and the occupancy number is displayed on LCD screen. The system can be controlled by phone. Besides, the project connects with Firebase real-time database successfully.
